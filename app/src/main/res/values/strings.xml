@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">应用分身</string>
+    <string name="app_list">应用列表</string>
+    <string name="clone_app">分身</string>
+    <string name="launch">启动</string>
+    <string name="cloned_apps">已分身应用</string>
+    <string name="keep_alive">后台保活</string>
+    <string name="search_app">搜索应用</string>
+    <string name="notification_title">应用分身服务</string>
+    <string name="notification_text">后台服务正在运行，保护分身应用不被系统关闭</string>
+    <string name="channel_name">后台服务</string>
+    <string name="channel_description">用于保持应用在后台运行的通知渠道</string>
+</resources>
